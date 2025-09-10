@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ArrayAverage\ArrayAverage\bin\Debug\ArrayAverage.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\ArrayAverage\ArrayAverage\obj\Debug\ArrayAverage.pdb
